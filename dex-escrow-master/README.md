@@ -66,5 +66,5 @@ If the peer container (`fabric-peer0.org1.example.com`) starts successfully, fol
 
 ### Screenshots
 
-![Screenshot 1](screenshots/1.png)
-![Screenshot 2](screenshots/2.png)
+![Screenshot 1](./fabric/screenshots/1.png)
+![Screenshot 2](./fabric/screenshots/2.png)

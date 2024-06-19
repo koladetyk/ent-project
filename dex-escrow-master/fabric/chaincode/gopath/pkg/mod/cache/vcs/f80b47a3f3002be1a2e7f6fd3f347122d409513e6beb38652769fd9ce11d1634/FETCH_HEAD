@@ -1,0 +1,13 @@
+1cf34ebd10030503435d52d0dd4383ac62cae771	not-for-merge	branch 'dependabot/github_actions/actions/checkout-4.1.7' of https://github.com/envoyproxy/go-control-plane
+6146f458cbc49023d04d5ac3b3fd09126f2db9a1	not-for-merge	branch 'dependabot/github_actions/github/codeql-action-3.25.10' of https://github.com/envoyproxy/go-control-plane
+65c4cf59ef84c3e55908ecb661b700ec5e4adae1	not-for-merge	branch 'dependabot/go_modules/examples/dyplomat/google.golang.org/grpc-1.64.0' of https://github.com/envoyproxy/go-control-plane
+91b5a3bada5f1294fe301a6a6e06e9fc37843cf0	not-for-merge	branch 'dependabot/go_modules/google.golang.org/grpc-1.64.0' of https://github.com/envoyproxy/go-control-plane
+38acda95227e8850792fb9adea1d6aeb685e8112	not-for-merge	branch 'dependabot/go_modules/google.golang.org/protobuf-1.34.2' of https://github.com/envoyproxy/go-control-plane
+aad3ccffdb469e23e3049313ab29b0d6dbf494ad	not-for-merge	branch 'dependabot/go_modules/xdsmatcher/google.golang.org/protobuf-1.34.2' of https://github.com/envoyproxy/go-control-plane
+5e07139df717b2bc36bd2b1e874ddd017c159218	not-for-merge	branch 'e2e-benchmark' of https://github.com/envoyproxy/go-control-plane
+82e2a76dbddd00ac28c94f5cd87a6b1d6a1090d4	not-for-merge	branch 'main' of https://github.com/envoyproxy/go-control-plane
+c65a5c56bcf82e20c55cec73eb09bdd36c41e872	not-for-merge	branch 'master-ci-test' of https://github.com/envoyproxy/go-control-plane
+1b350d3d4fe8875f7f7b330457f2f6c63e50aa2e	not-for-merge	branch 'multi-module-release' of https://github.com/envoyproxy/go-control-plane
+97a672a283468a98c2ac47f372578159a868eef4	not-for-merge	branch 'pprof' of https://github.com/envoyproxy/go-control-plane
+333528c16dc4819083dca5b8f47927ee00b101aa	not-for-merge	branch 'rbac' of https://github.com/envoyproxy/go-control-plane
+91327421dbe65c21659163078393babbd4b297cf	not-for-merge	branch 'xdsmatcher' of https://github.com/envoyproxy/go-control-plane

@@ -1,0 +1,17 @@
+./ARCH.go
+./BIG.go
+./BLS.go
+./CONFIG_BIG.go
+./CONFIG_CURVE.go
+./CONFIG_FIELD.go
+./DBIG.go
+./ECDH.go
+./ECP.go
+./ECP2.go
+./FP.go
+./FP12.go
+./FP2.go
+./FP4.go
+./MPIN.go
+./PAIR.go
+./ROM.go

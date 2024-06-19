@@ -1,0 +1,4 @@
+1ef071dbbe7fe6f5cc18228eb3734d269162c042		branch 'add-string-format-tests' of https://github.com/op/go-logging
+51525937c6814d60f50730e0629cf672a8fbfaff		branch 'bump-jenkins' of https://github.com/op/go-logging
+970db520ece77730c7e4724c61121037378659d9		branch 'master' of https://github.com/op/go-logging
+b2cb9fa56473e98db8caba80237377e83fe44db5		tag 'v1' of https://github.com/op/go-logging

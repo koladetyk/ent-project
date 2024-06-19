@@ -1,0 +1,10 @@
+a534ba6f2551174b8a7792843b58beebeda5fbd4		branch 'master' of https://github.com/prometheus/client_model
+e2da43ae71fe22f457da00bb0b1f4fcaec9113c2		branch 'proto3' of https://github.com/prometheus/client_model
+58fd25885f9df214b26caca41705800c6f2c9f98		tag 'model-0.0.2' of https://github.com/prometheus/client_model
+1d00c49a329463291fbacea0658c6857ab7a9c13		tag 'v0.1.0' of https://github.com/prometheus/client_model
+f44e7adcba5ee54c8a94709e6fc300d83245f171		tag 'v0.2.0' of https://github.com/prometheus/client_model
+ac628887ccf5dae9ff7625bc75a14f11b763252e		tag 'v0.3.0' of https://github.com/prometheus/client_model
+91c3945f2cfbfb9040e34a0b6764d804b5a5a490		tag 'v0.4.0' of https://github.com/prometheus/client_model
+1c92cadf7d8fa1726bae12e6025cca9b86d2ba5f		tag 'v0.5.0' of https://github.com/prometheus/client_model
+ab960aea3b8cee35f09ed99c2acb79674d3303ae		tag 'v0.6.0' of https://github.com/prometheus/client_model
+2082c77db6d99e5f8c2a2c8fa2359f312c15296f		tag 'v0.6.1' of https://github.com/prometheus/client_model

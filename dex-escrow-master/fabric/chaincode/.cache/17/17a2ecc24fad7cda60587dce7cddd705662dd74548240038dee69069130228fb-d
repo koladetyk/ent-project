@@ -1,0 +1,7 @@
+./ascii.go
+./proxy.go
+./tc.go
+./term.go
+./termios.go
+./termios_nonbsd.go
+./winsize.go

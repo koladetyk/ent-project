@@ -1,0 +1,4 @@
+68d350f18fd419cbbf81a41f5bb82d427cc8a332		branch 'main' of https://github.com/googleapis/go-genproto
+1c22fa41b0c989c4b9cd759076feb0bef2f4e421		branch 'pubsub_dev' of https://github.com/googleapis/go-genproto
+bd0beb1d409d8e264009d1909b633c1e9847c642		branch 'quartzmo-vet-go-120' of https://github.com/googleapis/go-genproto
+17f51c905e87a79f376f8d558875d35ab5543f0d		branch 'regen_alias' of https://github.com/googleapis/go-genproto
